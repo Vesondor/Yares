@@ -1,3 +1,4 @@
 x = input('LOL').lower
-if x != 'gay': 
-    print('Bruh')
+gay_bowser = input ("Yare Yare Daze")
+print ('Hello')
+print('SHEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEESH')
