@@ -1,0 +1,7 @@
+git init
+git add
+git commit-m "initial git"
+git log -p
+git revert hashcode
+git reset hascode
+git remote add "name" "link"
